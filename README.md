@@ -1,2 +1,4 @@
 # Kaggle_Titanic-Survivors
-Attempt of Kaggle's Titanic Survivors Challenge using R
+Practice of Kaggle's Titanic Survivors Challenge using R
+
+Credit goes to David Langer's Video on Youtube.
